@@ -1,1 +1,1 @@
-const String apiKey = "<Insert OpenWeather API key here>";
+const String apiKey = '<Insert OpenWeather API key here>';
